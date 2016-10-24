@@ -6,7 +6,7 @@ require 'json'
 # https://devcentral.f5.com/codeshare/ruby-virtual-server-and-pool-creation
 BIGIP_ADDRESS = '142.107.185.43'
 BIGIP_USER = 'admin'
-BIGIP_PASS = 'your-best-guess'
+BIGIP_PASS = 'your-best-guess-pwd'
 
 SLEEP_TIME = 20
 
